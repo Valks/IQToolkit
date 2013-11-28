@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>mattwar Valks</authors>
+    <owners>mattwar Valks</owners>
+    <licenseUrl>http://iqtoolkit.codeplex.com/license</licenseUrl>
+    <projectUrl>https://github.com/Valks/IQToolkit</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>IQToolkit.Data.MySql library ported to nuget. NOT AN OFFICAL PACKAGE!</description>
+    <releaseNotes>Converted to a nuget package.</releaseNotes>
+    <copyright>Copyright 2013</copyright>
+  </metadata>
+</package>
